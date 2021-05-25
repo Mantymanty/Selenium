@@ -29,5 +29,6 @@ public class Script_amazon extends Gen
 //		Thread.sleep(2000);
 		pm.addtocart();
 		Thread.sleep(2000);
+		System.out.Println("manty");
 	}
 }
